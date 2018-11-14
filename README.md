@@ -6,6 +6,10 @@ In the paper map,  nodes represent paper, of which color distinguishes publicati
 Through the system, user can search a specific paper they interested in by the search box, and the paper’s position will show on the Paper Map. Users can also filter the paper according to topic to generate submap by option box.
 
 More information of each paper can be available to users by clicking the paper nodes in Paper Map system. By click effect, papers with reference relationship will be highlighted. The information panel will appears to show the essential information as well as trend and prediction result of citation count.
-![image1](http://github.com/zijie2333/MUCA/raw/master/img/graph1.png)
+
+![image1](https://github.com/zijie2333/MUCA/raw/master/img/graph1.png)
+
+
 We also visualize the cascades of papers input to neural network topology by dynamic graph, where nodes representing the infected author, with color illustrating the infected year and lines illustrating the reference relationships between authors.
-![image2](http://github.com/zijie2333/MUCA/raw/master/img/graph2.jpg)
+
+![image2](https://github.com/zijie2333/MUCA/raw/master/img/graph2.jpg)
